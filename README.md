@@ -7,8 +7,6 @@
 <p>application is also able to read image data from database and display image coorrectly using system.windows.forms.picturebox control.</p>
 <p>application is also able to display images in system.windows.forms.datagridview.</p>
 <p>database is located in bin/debug/app_data folder.</p>
-<p>how to use application:</br>
-1. visual studio ide</br>
-2. double-click proj_store_image4.sln</br></p>
+
   
 
