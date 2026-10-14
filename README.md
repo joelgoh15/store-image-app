@@ -1,12 +1,12 @@
 ## About
-<p>an app that can be used to store and delete images.</p>
-<p>desktop application in c#.</p>
-<p>used sql and t-sql to interact with database.</p>
-<p>image file uploaded to application is not kept as image file in a folder.</p>
-<p>image file uploaded to application is stored in database as type varbinary(max).</p>
-<p>application is also able to read image data from database and display image coorrectly using system.windows.forms.picturebox control.</p>
-<p>application is also able to display images in system.windows.forms.datagridview.</p>
-<p>database is located in bin/debug/app_data folder.</p>
+<p>An app that can be used to store and delete images.</p>
+<p>Desktop application in C#.</p>
+<p>Used SQL and T-SQL to interact with database.</p>
+<p>Image file uploaded to application is not kept as image file in a folder.</p>
+<p>Image file uploaded to application is stored in database as type Varbinary(max).</p>
+<p>Application is also able to read image data from database and display image correctly using System.Windows.Forms.PictureBox control.</p>
+<p>Application is also able to display images in System.Windows.Forms.DataGridView.</p>
+<p>Database is located in "bin/debug/app_data" folder.</p>
 
   
 
